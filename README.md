@@ -14,10 +14,6 @@
 
 Проект начинал разрабатываться в рамках факультатива "Анализ социальных медиа на языке Python", а затем дорабатывался для дипломного проекта в рамках bonus track "Технологии анализа данных".<br>
 <br>
-**Отчет:** <br>
-**Презентация:** <br>
-
-Ход работы: <br>
 ![1](https://github.com/kivirciks/social_network_analysis/blob/main/utils/1.PNG)
 ![2](https://github.com/kivirciks/social_network_analysis/blob/main/utils/2.PNG)
 ![3](https://github.com/kivirciks/social_network_analysis/blob/main/utils/3.PNG)
